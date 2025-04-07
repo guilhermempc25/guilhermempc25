@@ -38,7 +38,7 @@ Busco oportunidades para atuar com **Desenvolvimento Front End**, aplicando minh
 
 ## 📫 Onde me encontrar
 
-- 📧 **Email**: guilherme.campos@email.com  
+- 📧 **Email**: guilhermempc25@hotmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/guicampos25)  
 - 🌍 Portfólio: *em construção 🚧*
 
