@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Campos!
 
-<!--
-**guilhermempc25/guilhermempc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para o **Desenvolvimento Front End**, com sólida experiência em **Suporte Técnico**. Minha vivência prática com usuários me ensinou o valor da simplicidade e eficiência nas interfaces. Hoje, aplico isso na criação de experiências digitais modernas, acessíveis e responsivas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+<div align="left">
+
+🔹 **Front End**:  
+`ReactJS`, `JavaScript`, `HTML`, `CSS`, `Figma`
+
+🔹 **Versionamento & Backend**:  
+`Git`, `GitHub`, `Node.js (básico)`
+
+🔹 **Extras**:  
+`Python`, `SQL`, `SAP`
+
+</div>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades para atuar com **Desenvolvimento Front End**, aplicando minhas habilidades técnicas e visão analítica em soluções que melhorem a experiência do usuário.
+
+---
+
+## 🌱 Aprendizado Contínuo
+
+- React avançado (Hooks, Context API, Performance)
+- Integração com APIs REST
+- Testes com Jest & RTL
+- Boas práticas de UX/UI e Acessibilidade
+
+---
+
+## 📫 Onde me encontrar
+
+- 📧 **Email**: guilherme.campos@email.com  
+- 💼 [LinkedIn](https://linkedin.com/in/guilhermecampos)  
+- 🌍 Portfólio: *em construção 🚧*
+
+---
+
+> 💡 *"Tecnologia é feita por pessoas e para pessoas. Por isso, cada linha de código importa."*
+
+---
+
